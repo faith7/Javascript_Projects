@@ -22,7 +22,7 @@ $ git clone https://github.com/faith7/Javascript_Projects.git
 
 ## Project Previews
 
-![ ](https://github.com/faith7/Javascript_Projects.git/tweet_add.png)
-![ ](https://github.com/faith7/Javascript_Projects.git/tweet_add1.png)
-![ ](https://github.com/faith7/Javascript_Projects.git/tweet_delete.png)
-![ ](https://github.com/faith7/Javascript_Projects.git/tweet_localStorage.png)
+![ ](https://github.com/faith7/Javascript_Projects/blob/master/1.%20LocalStorageForm/tweet_add.png)
+![ ](https://github.com/faith7/Javascript_Projects/blob/master/1.%20LocalStorageForm/tweet_add1.png)
+![ ](https://github.com/faith7/Javascript_Projects/blob/master/1.%20LocalStorageForm/tweet_delete.png)
+![ ](https://github.com/faith7/Javascript_Projects/blob/master/1.%20LocalStorageForm/tweet_localStorage.png)
