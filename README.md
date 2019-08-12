@@ -1,6 +1,6 @@
 # Javascript Projects
 
-This javascript project is to practice Javascript skills. The project is part of Udemy Class-Modern JavaScript The Complete Course. Html, Css, Javascript are used.
+This javascript project is to practice Javascript skills. The project is part of Udemy Class-Modern JavaScript The Complete Course. Html, Css, Javascript are used. Html and Css files were given as default files.
 For more information, visit [here](https://www.udemy.com/modern-javascript-the-complete-course-build-10-projects/).
 
 # Program Environment
